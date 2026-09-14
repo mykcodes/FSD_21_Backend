@@ -1,0 +1,8 @@
+{
+  "name": "event-module",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
+}
